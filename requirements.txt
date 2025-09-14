@@ -1,0 +1,9 @@
+emoji
+rich
+nltk
+openpyxl
+python-docx
+PyPDF2
+pandas
+streamlit
+plotly

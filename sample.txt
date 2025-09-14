@@ -1,0 +1,24 @@
+01/09/25, 09:00 - Alice: Morning! ☀️
+01/09/25, 09:01 - Bob: 😂😂😂😂
+01/09/25, 09:02 - Eve: Party tonight 🍀😮‍💨🔥
+01/09/25, 09:03 - Mallory: Need pills? 💊🍬
+01/09/25, 09:04 - Trent: Deal 🔫💵
+01/09/25, 09:05 - Alice: Family pic 👨‍👩‍👧
+01/09/25, 09:06 - Bob: 📦📦📦
+01/09/25, 09:07 - Eve: everyone come at 10pm
+01/09/25, 09:08 - Mallory: 😂😂❤️
+01/09/25, 09:09 - Attacker: bring 🍀💨 at midnight
+01/09/25, 09:10 - Attacker: contact me privately 📨🔒
+01/09/25, 09:11 - TestZWJ1: hello\u200dworld          # escaped ZWJ (visible in file as \u200d)
+01/09/25, 09:12 - TestZWJ2: secret k\u200bill        # escaped zero-width in middle of word
+01/09/25, 09:13 - SmuggleEmoji1: 👨\u200d👩\u200d👧‍👦   # escaped family ZWJ sequence
+01/09/25, 09:14 - SmuggleEmoji2: 🍀‍💨🔥               # emoji sequence (ZWJ may be part of the emoji)
+01/09/25, 09:15 - Noise: skills and billing info
+01/09/25, 09:16 - CityName: Bombay trip next week
+01/09/25, 09:17 - Attacker2: 🍀💊🔫💵
+01/09/25, 09:18 - Spam: BUY NOW!!! 💸💸💸
+01/09/25, 09:19 - Threat: I will k\u200bill you      # escaped zero-width inside 'kill'
+01/09/25, 09:20 - Normal: See you later.
+interactive ui
+downloading report is so simple 
+
